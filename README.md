@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-rangasamy&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-rangasamy" /> </p>
 
-- 🔭 I’m currently working on **KPR INFO SOLUTION**
+- 🔭 I’m currently working as a trainee on **KPR INFO SOLUTION**
 
 - 🌱 I’m currently learning **KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY**
 
