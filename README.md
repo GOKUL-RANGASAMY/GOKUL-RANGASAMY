@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](#)
 
 <h1 align="center">Hi 👋, I'm GOKUL R</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh3bmJjZXEyNno1OTd4ZTIwa2dpaThpcmd3NTR3bTBydDF1dDNodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-rangasamy&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-rangasamy" /> </p>
 
