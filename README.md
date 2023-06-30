@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](#)
 <h1 align="center">Hi 👋, I'm GOKUL R</h1>
 
-<img align="right" alt="IMG" width="400" src="https://i.pinimg.com/originals/8a/83/c8/8a83c8978f1b376321fde613d460e88d.gif">
+<img align="right" alt="IMG" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-rangasamy&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-rangasamy" /> </p>
 
 - 🔭 I’m currently working as a trainee on **KPR INFO SOLUTION**
