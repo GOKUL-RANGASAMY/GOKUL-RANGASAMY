@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react js , machine learning**
 
-- 📫 How to reach me **gokulrangasamy**
+- 📫 How to reach me **gokulrangasamy@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy 😎**
 
