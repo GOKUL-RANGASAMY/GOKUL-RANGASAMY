@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gokul-rangasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-rangasamy" height="30" width="40" /></a>
+<a href="https://kaggle.com/gokulrangasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gokulrangasamy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gokulrangasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulrangasamy" height="30" width="40" /></a>
 </p>
 
@@ -26,5 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-rangasamy&show_icons=true&locale=en&layout=compact" alt="gokul-rangasamy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-rangasamy&" alt="gokul-rangasamy" /></p>
-
-
