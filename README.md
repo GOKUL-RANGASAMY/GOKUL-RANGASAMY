@@ -5,11 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-rangasamy&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-rangasamy" /> </p>
 
 
-- 🔭 I’m currently working as a trainee on **UST GLOBAL**
-
 - 🌱 Completed **Bachelor of Engineering**
 
-- 💬 Ask me about **react js , machine learning , java**
+- 💬 Ask me about **GenAI, React js , Machine learning , Java**
 
 - 📫 How to reach me **gokulrangasamy121@gmail.com**
 
